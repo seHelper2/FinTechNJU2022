@@ -32,6 +32,9 @@
 
 2022年12月1日前，参赛队伍可通过如下腾讯文档链接 https://docs.qq.com/form/page/DRHplT090U2lxbU5E 进行报名，并将队伍信息发送至如下邮箱 seHelper@outlook.com 完成报名审核。
 
+可通过扫描如下二维码进行腾讯文档报名表的填写：
+
+![9a4ee30d5508c768afc23e5dd0a81bc](https://user-images.githubusercontent.com/118253207/202684629-2c51594d-55d8-49ee-aef4-27881add61fe.png)
 
 
 #### 2.4 参赛选题
