@@ -34,7 +34,8 @@
 
 可通过扫描如下二维码进行腾讯文档报名表的填写：
 
-![9a4ee30d5508c768afc23e5dd0a81bc](https://user-images.githubusercontent.com/118253207/202684629-2c51594d-55d8-49ee-aef4-27881add61fe.png)
+
+<img src="https://github.com/seHelper2/FinTechNJU2022/blob/main/image/%E6%8A%A5%E5%90%8D%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="300"></img>
 
 
 #### 2.4 参赛选题
