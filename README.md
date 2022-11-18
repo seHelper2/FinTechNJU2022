@@ -30,7 +30,7 @@
 
 #### 2.3 报名方式
 
-2022年12月1日前，参赛队伍可通过如下腾讯文档链接https://docs.qq.com/form/page/DRHplT090U2lxbU5E进行报名，并将队伍信息发送至如下邮箱seHelper@outlook.com完成报名审核。
+2022年12月1日前，参赛队伍可通过如下腾讯文档链接 https://docs.qq.com/form/page/DRHplT090U2lxbU5E 进行报名，并将队伍信息发送至如下邮箱 seHelper@outlook.com 完成报名审核。
 
 
 
